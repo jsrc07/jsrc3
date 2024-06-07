@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+body{
+    font-family: "calibri light";
+}
+.contenedor{
+    background: teal;
+    width: 80%;
+    margin: auto;
+}
+header{
+    height: 400px;
+    background-image: url(../img/playon.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+main{
+    background:rgb(139, 138, 233);
+    padding: 20px 30px;
+}
+
+main .foto{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(28, 149, 211);
+    border-radius: 50%;
+    margin: -90px 0 20px 0;
+    border: 6px solid #ffffff;
+}
+
+main .foto img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.boton a{
+    background: rgb(4, 94, 230);
+    color: white;
+    font-size: 18px;
+    display: block;
+    padding: 15px 10px;
+    border-radius: 5px;
+    width: 100px;
+    margin: 15px auto;
+    text-align: center;
+}
+
+.boton a:hover{
+    background: #a4d4;
+}
+
+footer{
+    background: teal;
+    text-align: center;
+    padding: 25px;
+    color: #ffffff;
+}

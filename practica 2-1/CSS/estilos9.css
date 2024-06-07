@@ -1,0 +1,13 @@
+body{
+    font-family: "Roboto";
+}
+
+div{
+    width: 60%;
+    height: 300px;
+    border-color:red blue yellow green;
+    border-width: 5px 10px 15px 30px;
+    border-style: solid dotted dashed double;
+    background: orange;
+    text-align: justify;
+}

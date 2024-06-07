@@ -1,0 +1,12 @@
+body{
+    font-family: "Roboto";
+}
+
+div{
+    width: 60%;
+    height: 300px;
+    padding: 50px 30px;
+    background: orange;
+    text-align: justify;
+    
+}
